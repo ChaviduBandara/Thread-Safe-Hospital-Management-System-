@@ -66,4 +66,3 @@ mvn exec:java -Dexec.mainClass="edu.icet.Main"
 
 ---
 
-## 📁 Project Structure
